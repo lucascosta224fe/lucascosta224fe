@@ -3,13 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-Praciting DS & Algos in Python
-
 
 <h2>📑 Certifications </h2>
 
-  
-Google Cybersecurity
+[Google Cybersecurity](https://www.credly.com/badges/50baf6f7-3a53-455e-a362-136812805195/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
