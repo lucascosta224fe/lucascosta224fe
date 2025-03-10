@@ -1,4 +1,6 @@
-## Hi there 👋
+## Welcome!! 👋
+
+<img src="https://github.com/user-attachments/assets/a82ae4ad-a076-454f-9c0c-3385db36e1a4" width="300" height="75">
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
