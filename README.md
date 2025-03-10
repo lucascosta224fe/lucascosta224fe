@@ -4,11 +4,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+ - <b>[SQL-Filters](https://github.com/lucascosta224fe/SQL-Filters)<b>
 
 <h2>📑 Certifications </h2>
 
-[Google Cybersecurity](https://www.credly.com/badges/50baf6f7-3a53-455e-a362-136812805195/public_url)
+ - [Google Cybersecurity](https://www.credly.com/badges/50baf6f7-3a53-455e-a362-136812805195/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
