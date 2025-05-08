@@ -17,10 +17,17 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://img.icons8.com/ios7/600/FFFFFF/linkedin.png" />][linkedin]
+[<img align="left" alt="Saito | LinkedIn" width="28px" src="https://img.icons8.com/ios7/600/FFFFFF/linkedin.png" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/lucas-costa-45a700346/
 
+[<img align="left" alt="Saito | TryHackMe" width="50px" src="https://tryhackme.com/img/logo/THMlogo-gray_scale.png" />][TryhackMe]
+
+[TryhackMe]: https://tryhackme.com/p/lucascosta224fe
+
+[<img align="left" alt="Saito | BTLO" width="28px" src="https://blueteamlabs.online/images/mainpic.png" />][BTLO]
+
+[BTLO]: https://blueteamlabs.online/home/user/468bc4e6520106d230a3be
 <!--
 joshmadakor1/joshmadakor1 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
