@@ -12,6 +12,8 @@
  - <b>[Linux-Permissions](https://github.com/lucascosta224fe/Linux-Permissions)<b>
  - <b>[Nist-CSF-Report](https://github.com/lucascosta224fe/NIST-CSF)<b>
 
+ <h2>:speech_balloon: Python: </h2>
+
 <h2>📑 Certifications </h2>
 
  - [Google Cybersecurity](https://www.credly.com/badges/50baf6f7-3a53-455e-a362-136812805195/public_url)
